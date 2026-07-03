@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสอบและคลังข้อสอบ",
+  "description": "ระบบสอบและคลังข้อสอบผ่าน Google Sheets และ Google Apps Script พร้อมโปรแกรมจำลองฐานข้อมูลจำลองในตัว",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
